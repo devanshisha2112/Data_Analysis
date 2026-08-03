@@ -1,94 +1,95 @@
-# CodeAlpha Data Analytics Internship
+# Data Analytics Projects
 
-## About
+This repository contains a collection of Data Analytics projects developed using Python. The projects demonstrate data cleaning, exploratory data analysis (EDA), visualization, and basic machine learning techniques to extract meaningful insights from datasets.
 
-This repository contains the tasks completed during my CodeAlpha Data Analytics Internship.
+## Features
 
-The internship focuses on data analysis, visualization, and natural language processing using Python.
-
----
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Statistical Analysis
+- Sentiment Analysis
+- Dataset Exploration
+- Well-structured and beginner-friendly code
 
 ## Technologies Used
 
-- Python
+- Python 3.x
+- Jupyter Notebook / Visual Studio Code
+
+## Python Libraries
+
 - Pandas
+- NumPy
 - Matplotlib
 - Seaborn
-- TextBlob
+- Scikit-learn
 
----
 
-## Tasks Completed
 
-### Task 2 - Exploratory Data Analysis (EDA)
+## Project Highlights
 
-Performed detailed exploratory analysis including:
-
-- Data structure exploration
-- Data types
-- Missing values
-- Duplicate records
-- Statistical analysis
+### Exploratory Data Analysis (EDA)
+- Dataset loading and inspection
+- Handling missing values
+- Summary statistics
+- Feature analysis
 - Correlation analysis
-- Business questions
-- Visualizations
-- Conclusions
 
----
+### Data Visualization
+- Bar Charts
+- Histograms
+- Pie Charts
+- Box Plots
+- Scatter Plots
+- Heatmaps
 
-### Task 3 - Data Visualization
+### Sentiment Analysis
+- Text preprocessing
+- Sentiment classification
+- Positive and Negative review analysis
+- Data visualization of sentiment distribution
 
-Created different visualizations using Matplotlib and Seaborn.
+## Data Cleaning
+- Removing duplicate records
+- Handling null values
+- Formatting datasets
+- Data transformation
 
-Charts included:
+## Requirements
 
-- Count Plot
-- Histogram
-- Scatter Plot
-- Box Plot
-- Pie Chart
-- Heatmap
+Install the required libraries using:
 
----
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+```
 
-### Task 4 - Sentiment Analysis
+## How to Run
 
-Performed sentiment analysis on customer reviews using TextBlob.
+1. Clone the repository.
 
-Features:
+```bash
+git clone <repository-link>
+```
 
-- Positive, Negative, Neutral classification
-- Sentiment distribution
-- Bar Chart
-- Pie Chart
-- CSV output generation
+2. Open the project folder.
 
----
+3. Install the required libraries.
 
-## Libraries Used
+4. Run the Python scripts or Jupyter Notebook.
 
-- pandas
-- matplotlib
-- seaborn
-- textblob
+## Learning Objectives
 
----
-
-## Learning Outcomes
-
-During this internship I learned:
-
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Visualization
-- Customer Sentiment Analysis
-- Python Libraries
-- Business Insight Generation
-
----
+- Understand the complete data analysis workflow
+- Perform data preprocessing and cleaning
+- Create meaningful visualizations
+- Analyze datasets to identify trends and patterns
+- Build a strong foundation in Python for Data Analytics
 
 ## Author
 
 **Devanshi Shah**
 
-CodeAlpha Data Analytics Intern
+---
+
+⭐ If you found this repository useful, consider giving it a star.
